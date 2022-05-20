@@ -13,7 +13,7 @@ This library was used to create the AI in the game [Basher Beatdown](https://you
 
 # Warning
 
-This project uses [CeilaSpike's Thread Ninja](https://www.assetstore.unity3d.com/en/#!/content/15717) for it's multithreading and won't work without it. Please download and import it first before importing this project.
+This project uses [CeilaSpike's Thread Ninja](https://assetstore.unity.com/packages/tools/thread-ninja-multithread-coroutine-15717) for it's multithreading and won't work without it. Please download and import it first before importing this project.
 
 ---
 
